@@ -1,0 +1,101 @@
+*{
+    
+    color: white !important;
+}
+
+
+ body{
+   background: #363535 !important; 
+   color: white !important;
+    /* padding: 0px !important;
+   border: 0px !important;
+
+ margin-top: -90px;  */
+ } 
+.Navbar a{
+    color: white ;
+    padding: 20px !important;
+}
+.navbar-toggler{
+    
+    background: #ffffff !important;
+}
+
+.Navbar a:hover{
+    color: #ffffff ;
+    
+}
+.container-fluid{
+    background: #004040;
+    border: 2px solid white ;
+}
+.dropdown-menu{
+    background: #101820 !important;
+    color: #ffffff !important;
+}
+.dropdown-menu a:hover{
+    color: #000 !important;
+}
+.imgp img{
+    margin-left: 800px;
+    margin-top: -25px;
+    
+    
+}
+.text1 b{
+    text-shadow: 0px 0px 5px #101820 ;
+}
+
+.text1 h1{
+    text-shadow: 0px 0px 5px #6c6d60 ;
+    font-size: 80px;
+    margin-left: 140px;
+}
+.text1{
+    margin-top: -450px;
+    font-size: 720px;
+}
+.thumb h1{
+    text-align: center;
+    color: white;
+    margin-top: 20px;
+    background-color: #004040;
+    border-radius: 800px;
+    width: 500px;
+    height:55px;
+    margin-left: 430px;
+    border: 2px solid ;
+    
+    
+    
+    
+}
+
+
+.carousel-inner{
+    margin-top: -30px !important;
+    border: 2px solid white;
+    
+}
+footer a ul li{
+    color: white !important;
+}
+a{
+    color: white !important;
+}
+.card-footer,.card{
+    
+    
+    margin-top: 20px !important; 
+    color: black !important;
+     height: 350px !important;
+    
+}
+.card{
+    border: 2px solid #000000 !important;
+    box-shadow: 0px 0px 10px rgba(206, 204, 204, 0.904);
+}
+
+
+
+
