@@ -1,1 +1,1 @@
-Live Preview : tariqabro.netlify.app
+Live Preview : https://tariqabro.netlify.app
